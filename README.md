@@ -1,4 +1,4 @@
-# C++ Shell Project
+# Assignment 2  Custom Implementation Shell Project using C++
 
 A custom Unix-style shell written in C++ that supports:
 
@@ -23,14 +23,6 @@ A custom Unix-style shell written in C++ that supports:
 - `main.cpp` — entry point
 - `shell.h` — class definition
 - `shell.cpp` — shell logic
-
-## 📸 Screenshots
-
-Add screenshots of your shell running:
-- `sleep 10 &`
-- `jobs`
-- `fg PID`
-- `ls > out.txt`
 
 ## 📜 How to Compile
 
